@@ -2,7 +2,7 @@ from telegram import Bot
 from telegram.error import TelegramError
 
 # Replace 'YOUR_BOT_TOKEN' with the token provided by BotFather
-bot_token = 'YOUR_BOT_TOKEN'
+bot_token = '6958175960:AAFbsEQ19lATd6NUCOhyhyi6ikSkoFvOfGk'
 
 def join_group_or_channel(-1001555092484):
     try:
